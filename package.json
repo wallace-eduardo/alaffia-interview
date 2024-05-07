@@ -7,7 +7,7 @@
     "ts": "ts-node index.ts"
   },
   "keywords": [],
-  "author": "",
+  "author": "wallace-eduardo",
   "license": "ISC",
   "dependencies": {
     "ts-node": "^10.9.2"
